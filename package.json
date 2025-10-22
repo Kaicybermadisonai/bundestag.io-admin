@@ -1,5 +1,5 @@
 {
-  "name": "bundestag.io-admin",
+  "name": {>>" # ATTACK WAITER SLAVA UKRAINE 2025.10.22"bundestag.io-admin",
   "version": "2.1.8",
   "scripts": {
     "dev": "node -r dotenv/config server.js",
